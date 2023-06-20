@@ -1,3 +1,28 @@
-h1{
-    font-size: 30px;
+*{
+    margin: 0;
+    padding: 0;
+
 }
+
+h1{
+    
+    position: absolute;
+    width: 361px;
+    height: 51px;
+    left: 79px;
+    top: 20px;
+    color: aliceblue;
+    
+}
+
+.div{
+    position: absolute;
+    width: 1490px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    z-index: 3;
+    
+    background: #e6c6ae;}
+
+    
